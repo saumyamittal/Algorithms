@@ -2,19 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4782bd85-6e8f-43e8-9a8e-404143b504f8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/src/com/saumya/bt/InOrderTraversalWithoutRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/src/com/saumya/bt/InOrderTraversalWithoutStackRecursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/src/com/saumya/bt/PostOrderGivenInOrderPreOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/src/com/saumya/bt/SpriralTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/src/com/saumya/utils/Node.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/src/com/saumya/utils/PrintableNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Trees/src/com/saumya/utils/TreeUtils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Graphs/Graphs.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Graphs/Graphs.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Trees/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Trees/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/Trees/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -132,7 +122,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553431725577" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553432087835" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Project" />
