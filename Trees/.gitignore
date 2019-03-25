@@ -66,6 +66,8 @@ node_modules
 .idea/dictionaries
 .idea/vcs.xml
 .idea/jsLibraryMappings.xml
+.idea/modules.xml
+.idea/workspace.xml
 
 # Sensitive or high-curn files
 .idea/dataSources.ids
